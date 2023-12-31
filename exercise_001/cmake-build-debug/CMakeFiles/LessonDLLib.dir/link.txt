@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLessonDL.so -o libLessonDL.so CMakeFiles/LessonDLLib.dir/main.cpp.o 

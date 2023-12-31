@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LessonDL",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LessonDL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LessonDL-Debug-0ba0bb88a81e39f16fa4.json",
+					"name" : "LessonDL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LessonDLLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LessonDLLib-Debug-04df21666f43842e53cc.json",
+					"name" : "LessonDLLib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL/exercise_001/cmake-build-debug",
+		"source" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL/exercise_001"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -239,6 +239,9 @@ ComputeCpp_ROOT_DIR:PATH=/home/redalexdad/Programs/ComputeCpp-CE-2.11.0-x86_64-l
 //Value Computed by CMake
 LessonDL_BINARY_DIR:STATIC=/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug
 
+//The directory containing a CMake configuration file for LessonDL.
+LessonDL_DIR:PATH=LessonDL_DIR-NOTFOUND
+
 //Value Computed by CMake
 LessonDL_IS_TOP_LEVEL:STATIC=ON
 

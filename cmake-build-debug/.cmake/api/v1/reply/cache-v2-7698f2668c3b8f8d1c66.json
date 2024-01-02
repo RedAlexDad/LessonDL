@@ -1142,38 +1142,6 @@
 			"value" : ""
 		},
 		{
-			"name" : "COMPUTECPP_DEVICE_COMPILER_FLAGS",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "(This variable does not exist and should not be used)"
-				}
-			],
-			"type" : "UNINITIALIZED",
-			"value" : ""
-		},
-		{
-			"name" : "COMPUTECPP_PLATFORM_IS_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "(This variable does not exist and should not be used)"
-				}
-			],
-			"type" : "UNINITIALIZED",
-			"value" : ""
-		},
-		{
 			"name" : "COMPUTECPP_RUNTIME_LIBRARY",
 			"properties" : 
 			[
@@ -1286,22 +1254,6 @@
 			"value" : "/home/redalexdad/Programs/ComputeCpp-CE-2.11.0-x86_64-linux-gnu"
 		},
 		{
-			"name" : "ComputeCpp_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "(This variable does not exist and should not be used)"
-				}
-			],
-			"type" : "UNINITIALIZED",
-			"value" : ""
-		},
-		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_ComputeCpp",
 			"properties" : 
 			[
@@ -1336,6 +1288,18 @@
 			],
 			"type" : "STATIC",
 			"value" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL/cmake-build-debug"
+		},
+		{
+			"name" : "LessonDL_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for LessonDL."
+				}
+			],
+			"type" : "PATH",
+			"value" : "LessonDL_DIR-NOTFOUND"
 		},
 		{
 			"name" : "LessonDL_IS_TOP_LEVEL",

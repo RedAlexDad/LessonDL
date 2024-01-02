@@ -79,7 +79,7 @@
 						"gcc"
 					]
 				},
-				"path" : "/usr/bin/g++-9",
+				"path" : "/usr/bin/c++",
 				"version" : "9.4.0"
 			},
 			"language" : "CXX",

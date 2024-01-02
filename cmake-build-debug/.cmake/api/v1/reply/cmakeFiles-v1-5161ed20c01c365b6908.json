@@ -122,20 +122,6 @@
 			"path" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
 		},
 		{
-			"isExternal" : true,
-			"path" : "/home/redalexdad/Programs/ComputeCpp-CE-2.11.0-x86_64-linux-gnu/ComputeCppConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
-		},
-		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindOpenCL.cmake"

@@ -1,0 +1,3 @@
+/home/redalexdad/Документы/GitHub/LessonDL/check_drivers/CMakeFiles/LessonDL.dir
+/home/redalexdad/Документы/GitHub/LessonDL/check_drivers/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/check_drivers/CMakeFiles/rebuild_cache.dir

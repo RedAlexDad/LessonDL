@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/redalexdad/Документы/GitHub/LessonDL")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/redalexdad/Документы/GitHub/LessonDL/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

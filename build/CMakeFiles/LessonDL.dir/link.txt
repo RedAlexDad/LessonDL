@@ -1,0 +1,1 @@
+/usr/bin/g++-9 CMakeFiles/LessonDL.dir/accessors.cpp.o -o LessonDL 

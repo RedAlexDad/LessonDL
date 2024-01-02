@@ -1,5 +1,5 @@
-CMakeFiles/LessonDL.dir/simple-vector-add.cpp.o: \
- /home/redalexdad/Документы/GitHub/LessonDL/simple-vector-add.cpp \
+CMakeFiles/LessonDL.dir/accessors.cpp.o: \
+ /home/redalexdad/Документы/GitHub/LessonDL/accessors.cpp \
  /usr/include/stdc-predef.h \
  /home/redalexdad/Programs/ComputeCpp-CE-2.11.0-x86_64-linux-gnu/include/CL/sycl.hpp \
  /home/redalexdad/Programs/ComputeCpp-CE-2.11.0-x86_64-linux-gnu/include/CL/../SYCL/sycl.hpp \

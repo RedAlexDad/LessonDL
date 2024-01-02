@@ -60,7 +60,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /home/redalexdad/Документы/GitHub/LessonDL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/redalexdad/Документы/GitHub/LessonDL
+CMAKE_BINARY_DIR = /home/redalexdad/Документы/GitHub/LessonDL/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/redalexdad/Документы/GitHub/LessonDL/CMakeFiles /home/redalexdad/Документы/GitHub/LessonDL//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles /home/redalexdad/Документы/GitHub/LessonDL/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/redalexdad/Документы/GitHub/LessonDL/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -129,29 +129,29 @@ LessonDL/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/build
 .PHONY : LessonDL/fast
 
-exercise_03.o: exercise_03.cpp.o
-.PHONY : exercise_03.o
+accessors.o: accessors.cpp.o
+.PHONY : accessors.o
 
 # target to build an object file
-exercise_03.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/exercise_03.cpp.o
-.PHONY : exercise_03.cpp.o
+accessors.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/accessors.cpp.o
+.PHONY : accessors.cpp.o
 
-exercise_03.i: exercise_03.cpp.i
-.PHONY : exercise_03.i
+accessors.i: accessors.cpp.i
+.PHONY : accessors.i
 
 # target to preprocess a source file
-exercise_03.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/exercise_03.cpp.i
-.PHONY : exercise_03.cpp.i
+accessors.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/accessors.cpp.i
+.PHONY : accessors.cpp.i
 
-exercise_03.s: exercise_03.cpp.s
-.PHONY : exercise_03.s
+accessors.s: accessors.cpp.s
+.PHONY : accessors.s
 
 # target to generate assembly for a file
-exercise_03.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/exercise_03.cpp.s
-.PHONY : exercise_03.cpp.s
+accessors.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LessonDL.dir/build.make CMakeFiles/LessonDL.dir/accessors.cpp.s
+.PHONY : accessors.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LessonDL"
-	@echo "... exercise_03.o"
-	@echo "... exercise_03.i"
-	@echo "... exercise_03.s"
+	@echo "... accessors.o"
+	@echo "... accessors.i"
+	@echo "... accessors.s"
 .PHONY : help
 
 

@@ -1,1 +1,0 @@
-/usr/bin/g++-9 "CMakeFiles/LessonDL.dir/simple-vector-add.cpp.o" -o LessonDL 

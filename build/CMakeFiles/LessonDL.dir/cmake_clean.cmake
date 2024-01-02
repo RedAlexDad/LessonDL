@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LessonDL.dir/simple-vector-add.cpp.o"
-  "CMakeFiles/LessonDL.dir/simple-vector-add.cpp.o.d"
+  "CMakeFiles/LessonDL.dir/accessors.cpp.o"
+  "CMakeFiles/LessonDL.dir/accessors.cpp.o.d"
   "LessonDL"
   "LessonDL.pdb"
 )

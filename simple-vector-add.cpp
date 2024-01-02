@@ -27,8 +27,7 @@
 
 /* This example is a very small one designed to show how compact SYCL code
  * can be. That said, it includes no error checking and is rather terse. */
-#include <sycl.hpp>
-
+#include <CL/sycl.hpp>
 #include <array>
 #include <iostream>
 

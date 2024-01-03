@@ -1,7 +1,0 @@
-# ninja log v5
-0	1680	1704212767443513509	CMakeFiles/LessonDL.dir/simple-vector-add.cpp.o	4e8cc580ca32cd65
-0	88	1704214727880722459	build.ninja	49f2ab38288c4c1f
-1348	1422	1704213435653264942	LessonDL	c87ad0baeb6427f6
-2	1241	1704213691287316383	CMakeFiles/LessonDL.dir/accessors.cpp.o	1443bcce0852e580
-0	90	1704214727880722459	build.ninja	49f2ab38288c4c1f
-2	1282	1704214729168738396	CMakeFiles/LessonDL.dir/accessors.cpp.o	d0d7486875897ef1

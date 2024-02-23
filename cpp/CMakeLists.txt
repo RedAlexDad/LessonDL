@@ -8,7 +8,8 @@ include_directories(/usr/local/include)
 
 add_executable(
         LessonDL
-        driver.cpp
+#        driver.cpp
+        test_speed0.cpp
 )
 
 # Подключение к библиотекам SYCL

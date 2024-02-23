@@ -12,14 +12,14 @@
   <component name="CMakeRunConfigurationManager">
     <generated />
   </component>
-  <component name="CMakeSettings">
-    <configurations>
-      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
-    </configurations>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b5c40d-a052-44d2-90cf-0174455115fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise/driver.py" afterDir="false" />
+    <list default="true" id="66699574-9c4d-4472-9e57-ffa0d7883834" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise/test_speed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/test_speed_big.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +33,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CMakeLists.txt" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="OpenCL" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectApplicationVersion">
-    <option name="ide" value="CLion" />
-    <option name="majorVersion" value="2023" />
-    <option name="minorVersion" value="2.2" />
-  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2aJMk1Sdk9FudikZcmjLqmXBrxL" />
+  <component name="ProjectId" id="2clZgyD54bfuwsz2gYRZptYMD5K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,13 +57,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "cf.advertisement.text.has.clang-format": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "PyTroch",
-    "last_opened_file_path": "/home/redalexdad/Документы/GitHub/LessonDL",
+    "git-widget-placeholder": "PyTorch",
+    "last_opened_file_path": "/home/redalexdad/Документы/GitHub/LessonDL/exercise",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,15 +74,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cpp" />
-      <recent name="$PROJECT_DIR$/cpp/check_drivers" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/exercise" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/cpp/check_drivers" />
-      <recent name="$PROJECT_DIR$/cpp" />
+      <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
   <component name="RunManager">
@@ -106,24 +88,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14b5c40d-a052-44d2-90cf-0174455115fb" name="Changes" comment="" />
-      <created>1704032368094</created>
+      <changelist id="66699574-9c4d-4472-9e57-ffa0d7883834" name="Changes" comment="" />
+      <created>1708681757425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704032368094</updated>
-      <workItem from="1704032369087" duration="797000" />
-      <workItem from="1704040595427" duration="2599000" />
-      <workItem from="1704043198326" duration="7171000" />
-      <workItem from="1704204582943" duration="8021000" />
-      <workItem from="1704239317105" duration="93000" />
-      <workItem from="1704239487270" duration="2663000" />
-      <workItem from="1705150496289" duration="7092000" />
-      <workItem from="1705766691742" duration="843000" />
-      <workItem from="1706045826633" duration="795000" />
-      <workItem from="1708290302544" duration="1597000" />
-      <workItem from="1708459345958" duration="662000" />
-      <workItem from="1708674758015" duration="3149000" />
-      <workItem from="1708680490665" duration="124000" />
+      <updated>1708681757425</updated>
+      <workItem from="1708681761477" duration="839000" />
+      <workItem from="1708682608741" duration="207000" />
+      <workItem from="1708682824600" duration="1896000" />
+      <workItem from="1708688245361" duration="721000" />
+      <workItem from="1708689601055" duration="4420000" />
     </task>
     <servers />
   </component>
@@ -137,6 +111,8 @@
     <isAutomaticFoundErrors value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LessonDL$driver.coverage" NAME="driver Coverage Results" MODIFIED="1708680610656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
+    <SUITE FILE_PATH="coverage/LessonDL$test_speed.coverage" NAME="test_speed Coverage Results" MODIFIED="1708693487711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
+    <SUITE FILE_PATH="coverage/LessonDL$example_test_gpu.coverage" NAME="example_test_gpu Coverage Results" MODIFIED="1708689645334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/LessonDL$test_speed_big.coverage" NAME="test_speed_big Coverage Results" MODIFIED="1708693753278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
   </component>
 </project>

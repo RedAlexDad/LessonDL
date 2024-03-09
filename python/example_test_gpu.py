@@ -1,3 +1,7 @@
+# НЕ УБИРАЙТЕ ЭТУ ЯЧЕЙКУ, ИНАЧНЕ БУДЕТ НЕПРАВИЛЬНО ИНИЦИАЛИЗИРОВАНО ОКРУЖЕНИЕ, ЧТО И ВЫВЕДЕТ ОШИБКУ ВЕРСИИ ptxas!!!
+import os
+os.environ['PATH'] = '/usr/local/cuda-12.3/bin:' + os.environ['PATH']
+
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import fetch_openml
@@ -5,6 +9,9 @@ from sklearn.preprocessing import StandardScaler
 
 # Вывод информации о доступных устройствах
 physical_devices = tf.config.list_physical_devices('GPU')
+# Проверка доступных устройств
+print("Доступные устройства:", tf.config.experimental.list_physical_devices())
+
 if not physical_devices:
     print("No GPU devices available.")
 else:

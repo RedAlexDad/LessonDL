@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/LessonDL.dir/test_speed0.cpp.o -o LessonDL  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtensorflow.so 

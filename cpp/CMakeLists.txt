@@ -9,7 +9,9 @@ include_directories(/usr/local/include)
 add_executable(
         LessonDL
 #        driver.cpp
-        test_speed0.cpp
+#        test_speed0.cpp
+        exercise/exercise_01.cpp
+#        hello_tf.cpp
 )
 
 # Подключение к библиотекам SYCL

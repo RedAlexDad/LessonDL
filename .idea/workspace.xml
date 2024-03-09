@@ -10,18 +10,39 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="LessonDL" targetName="LessonDL" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
-    <configurations />
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66699574-9c4d-4472-9e57-ffa0d7883834" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cpp/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpp/hello.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpp/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp/CMakeLists_1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,34 +75,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;PyTorch&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/redalexdad/Документы/GitHub/LessonDL/exercise&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "PyTorch",
+    "last_opened_file_path": "/home/redalexdad/Документы/GitHub/LessonDL/cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpp" />
       <recent name="$PROJECT_DIR$/exercise" />
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonDL" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="LessonDL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="LessonDL">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>

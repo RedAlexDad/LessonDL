@@ -1,0 +1,4 @@
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance/build/CMakeFiles/LessonDL.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance/build/CMakeFiles/LessonDLLib.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance/build/CMakeFiles/rebuild_cache.dir

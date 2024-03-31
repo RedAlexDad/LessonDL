@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(LessonDL)
+project(exercise_002)
 
 set(CMAKE_CXX_STANDARD 20)
 
@@ -11,18 +11,18 @@ find_package(OpenCL REQUIRED)
 
 # Добавляем исполняемый файл, если это необходимо
 add_executable(
-        LessonDL
+        exercise_002
         main.cpp
 )
 # Добавление директорий для заголовочных файлов и библиотек OpenCL
 target_include_directories(
-        LessonDL PRIVATE
+        exercise_002 PRIVATE
         ${OpenCL_INCLUDE_DIRS}
 )
 
 # Подключение к библиотекам TensorFlow
 target_link_libraries(
-        LessonDL PRIVATE
+        exercise_002 PRIVATE
         /usr/local/lib/libtensorflow.so
         ${OpenCL_LIBRARIES}
 )
@@ -30,16 +30,16 @@ target_link_libraries(
 
 # Создаем shared library
 add_library(
-        LessonDLLib SHARED
+        exercise_002Lib SHARED
         main.cpp
 )
 
 # Устанавливаем флаги компиляции для создания позиционно-независимого кода
-set_property(TARGET LessonDLLib PROPERTY POSITION_INDEPENDENT_CODE ON)
+set_property(TARGET exercise_002Lib PROPERTY POSITION_INDEPENDENT_CODE ON)
 
 # Указываем имя выходного файла .so
 # Если нет файла, то компилируем вручную
 # cmake --build cmake-build-debug
-set_target_properties(LessonDLLib PROPERTIES OUTPUT_NAME "LessonDL")
+set_target_properties(exercise_002Lib PROPERTIES OUTPUT_NAME "exercise_002")
 
 message(STATUS "CMake System Name: ${CMAKE_SYSTEM_NAME}")

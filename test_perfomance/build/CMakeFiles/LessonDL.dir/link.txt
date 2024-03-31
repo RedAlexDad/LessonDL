@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/LessonDL.dir/main.cpp.o -o LessonDL  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtensorflow.so /usr/lib/x86_64-linux-gnu/libOpenCL.so 

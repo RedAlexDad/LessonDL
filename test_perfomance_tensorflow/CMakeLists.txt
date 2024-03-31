@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(exercise_001)
+project(test_perfomance_tensorflow)
 
 set(CMAKE_CXX_STANDARD 20)
 
@@ -11,18 +11,18 @@ find_package(OpenCL REQUIRED)
 
 # Добавляем исполняемый файл, если это необходимо
 add_executable(
-        exercise_001
+        test_perfomance_tensorflow
         main.cpp
 )
 # Добавление директорий для заголовочных файлов и библиотек OpenCL
 target_include_directories(
-        exercise_001 PRIVATE
+        test_perfomance_tensorflow PRIVATE
         ${OpenCL_INCLUDE_DIRS}
 )
 
 # Подключение к библиотекам TensorFlow
 target_link_libraries(
-        exercise_001 PRIVATE
+        test_perfomance_tensorflow PRIVATE
         /usr/local/lib/libtensorflow.so
         ${OpenCL_LIBRARIES}
 )
@@ -30,16 +30,16 @@ target_link_libraries(
 
 # Создаем shared library
 add_library(
-        exercise_001Lib SHARED
+        test_perfomance_tensorflowLib SHARED
         main.cpp
 )
 
 # Устанавливаем флаги компиляции для создания позиционно-независимого кода
-set_property(TARGET exercise_001Lib PROPERTY POSITION_INDEPENDENT_CODE ON)
+set_property(TARGET test_perfomance_tensorflowLib PROPERTY POSITION_INDEPENDENT_CODE ON)
 
 # Указываем имя выходного файла .so
 # Если нет файла, то компилируем вручную
 # cmake --build cmake-build-debug
-set_target_properties(exercise_001Lib PROPERTIES OUTPUT_NAME "exercise_001")
+set_target_properties(test_perfomance_tensorflowLib PROPERTIES OUTPUT_NAME "test_perfomance_tensorflow")
 
 message(STATUS "CMake System Name: ${CMAKE_SYSTEM_NAME}")

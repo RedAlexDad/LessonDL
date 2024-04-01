@@ -1,31 +1,13 @@
 /home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/redalexdad/Документы/GitHub/LessonDL/cpp -B /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug
--- Caffe2: CUDA detected: 12.3
--- Caffe2: CUDA nvcc is: /usr/local/cuda-12.3/bin/nvcc
--- Caffe2: CUDA toolkit directory: /usr/local/cuda-12.3
--- Caffe2: Header version is: 12.3
-CMake Warning at /usr/local/include/libtorch/share/cmake/Caffe2/public/cuda.cmake:184 (message):
-  Failed to compute shorthash for libnvrtc.so
-Call Stack (most recent call first):
-  /usr/local/include/libtorch/share/cmake/Caffe2/Caffe2Config.cmake:87 (include)
-  /usr/local/include/libtorch/share/cmake/Torch/TorchConfig.cmake:68 (find_package)
-  CMakeLists.txt:16 (find_package)
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
 
 
--- USE_CUDNN is set to 0. Compiling without cuDNN support
--- USE_CUSPARSELT is set to 0. Compiling without cuSPARSELt support
--- Autodetected CUDA architecture(s):  7.5
--- Added CUDA NVCC flags for: -gencode;arch=compute_75,code=sm_75
--- Configuring done (1.1s)
-CMake Warning at CMakeLists.txt:26 (add_executable):
-  Cannot generate a safe runtime search path for target LessonDL because
-  files in some directories may conflict with libraries in implicit
-  directories:
-
-    runtime library [libnvToolsExt.so.1] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
-      /usr/local/cuda-12.3/lib64
-
-  Some of these libraries may not be found correctly.
-
-
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug

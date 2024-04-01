@@ -11,7 +11,9 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="LessonDL" targetName="LessonDL" />
+      <config projectName="LessonDL" targetName="exercise_000" />
+      <config projectName="LessonDL" targetName="exercise_001" />
+      <config projectName="LessonDL" targetName="check_torch" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -21,28 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66699574-9c4d-4472-9e57-ffa0d7883834" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cpp/CMakeLists_1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/exercise_001/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/exercise_001/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +40,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CMakeLists.txt" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="g7r3f1qc" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,6 +64,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.LessonDL.executor": "Run",
+    "CMake Application.check_torch.executor": "Run",
+    "CMake Application.exercise_000.executor": "Run",
+    "CMake Application.exercise_001.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -98,21 +89,41 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cpp" />
+      <recent name="$PROJECT_DIR$/cpp/exercise_000" />
       <recent name="$PROJECT_DIR$/exercise" />
       <recent name="$PROJECT_DIR$/python" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpp/exercise_001" />
+      <recent name="$PROJECT_DIR$/cpp/exercise_000" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.exercise_001">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessonDL" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="LessonDL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="LessonDL">
+    <configuration name="check_torch" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="check_torch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="check_torch">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise_000" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_000" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_000">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise_001" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_001" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_001">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.check_torch" />
+      <item itemvalue="CMake Application.exercise_000" />
+      <item itemvalue="CMake Application.exercise_001" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,9 +145,8 @@
     <option name="version" value="3" />
   </component>
   <component name="VCPKGProject">
-    <isAutomaticEditVcpkgJson value="false" />
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
-    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
   </component>
 </project>

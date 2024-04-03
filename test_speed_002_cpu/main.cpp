@@ -48,12 +48,12 @@ int main() {
     // Выбираем первую платформу
     cl::Platform platform = platforms.front();
 
-    // Получаем доступные устройства на выбранной платформе (например, GPU)
+    // Получаем доступные устройства на CPU
     std::vector<cl::Device> devices;
-    platform.getDevices(CL_DEVICE_TYPE_GPU, &devices);
+    platform.getDevices(CL_DEVICE_TYPE_CPU, &devices);
 
     if (devices.empty()) {
-        std::cerr << "No GPU devices found." << std::endl;
+        std::cerr << "No CPU devices found." << std::endl;
         return 1;
     }
 
@@ -98,16 +98,7 @@ int main() {
 
     // Запускаем ядро
     cl::Event event;
-    // Установите размер рабочей группы (поэкспериментируйте, чтобы найти оптимальное значение)
-    const size_t workGroupSize = 512;
-    // const size_t workGroupSize = 256;
-    // const size_t workGroupSize = 128;
-    // const size_t workGroupSize = 64;
-
-    // Поставьте ядро в очередь с заданным размером рабочей группы
-    queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(arraySize), cl::NDRange(workGroupSize));
-
-    // queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(arraySize), cl::NullRange, nullptr, &event);
+    queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(arraySize), cl::NullRange, nullptr, &event);
 
     // Ждем завершения выполнения
     event.wait();
@@ -125,7 +116,7 @@ int main() {
     // }
     // std::cout << std::endl;
 
-    std::cout << "OpenCL Time on GPU: " << duration_opencl.count() << " seconds" << std::endl;
+    std::cout << "OpenCL Time on CPU: " << duration_opencl.count() << " seconds" << std::endl;
 
     return 0;
 

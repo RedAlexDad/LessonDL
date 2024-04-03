@@ -64,4 +64,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/search_device_main.dir/DependInfo.cmake"
   "CMakeFiles/test_speed_000_main.dir/DependInfo.cmake"
   "CMakeFiles/test_speed_001_main.dir/DependInfo.cmake"
+  "CMakeFiles/test_speed_002_cpu_main.dir/DependInfo.cmake"
+  "CMakeFiles/test_speed_003_limitation_main.dir/DependInfo.cmake"
   )

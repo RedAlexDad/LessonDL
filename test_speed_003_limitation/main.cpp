@@ -98,16 +98,7 @@ int main() {
 
     // Запускаем ядро
     cl::Event event;
-    // Установите размер рабочей группы (поэкспериментируйте, чтобы найти оптимальное значение)
-    const size_t workGroupSize = 512;
-    // const size_t workGroupSize = 256;
-    // const size_t workGroupSize = 128;
-    // const size_t workGroupSize = 64;
-
-    // Поставьте ядро в очередь с заданным размером рабочей группы
-    queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(arraySize), cl::NDRange(workGroupSize));
-
-    // queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(arraySize), cl::NullRange, nullptr, &event);
+    queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(arraySize), cl::NullRange, nullptr, &event);
 
     // Ждем завершения выполнения
     event.wait();

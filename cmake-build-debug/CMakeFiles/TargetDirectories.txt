@@ -10,5 +10,7 @@
 /home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/search_device_main.dir
 /home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/test_speed_000_main.dir
 /home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/test_speed_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/test_speed_002_cpu_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/test_speed_003_limitation_main.dir
 /home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

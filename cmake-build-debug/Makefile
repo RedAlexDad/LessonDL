@@ -272,6 +272,32 @@ test_speed_001_main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_001_main.dir/build.make CMakeFiles/test_speed_001_main.dir/build
 .PHONY : test_speed_001_main/fast
 
+#=============================================================================
+# Target rules for targets named test_speed_002_cpu_main
+
+# Build rule for target.
+test_speed_002_cpu_main: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_speed_002_cpu_main
+.PHONY : test_speed_002_cpu_main
+
+# fast build rule for target.
+test_speed_002_cpu_main/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_002_cpu_main.dir/build.make CMakeFiles/test_speed_002_cpu_main.dir/build
+.PHONY : test_speed_002_cpu_main/fast
+
+#=============================================================================
+# Target rules for targets named test_speed_003_limitation_main
+
+# Build rule for target.
+test_speed_003_limitation_main: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_speed_003_limitation_main
+.PHONY : test_speed_003_limitation_main
+
+# fast build rule for target.
+test_speed_003_limitation_main/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_003_limitation_main.dir/build.make CMakeFiles/test_speed_003_limitation_main.dir/build
+.PHONY : test_speed_003_limitation_main/fast
+
 check_driver_000/main.o: check_driver_000/main.cpp.o
 .PHONY : check_driver_000/main.o
 
@@ -560,6 +586,54 @@ test_speed_001/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_001_main.dir/build.make CMakeFiles/test_speed_001_main.dir/test_speed_001/main.cpp.s
 .PHONY : test_speed_001/main.cpp.s
 
+test_speed_002_cpu/main.o: test_speed_002_cpu/main.cpp.o
+.PHONY : test_speed_002_cpu/main.o
+
+# target to build an object file
+test_speed_002_cpu/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_002_cpu_main.dir/build.make CMakeFiles/test_speed_002_cpu_main.dir/test_speed_002_cpu/main.cpp.o
+.PHONY : test_speed_002_cpu/main.cpp.o
+
+test_speed_002_cpu/main.i: test_speed_002_cpu/main.cpp.i
+.PHONY : test_speed_002_cpu/main.i
+
+# target to preprocess a source file
+test_speed_002_cpu/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_002_cpu_main.dir/build.make CMakeFiles/test_speed_002_cpu_main.dir/test_speed_002_cpu/main.cpp.i
+.PHONY : test_speed_002_cpu/main.cpp.i
+
+test_speed_002_cpu/main.s: test_speed_002_cpu/main.cpp.s
+.PHONY : test_speed_002_cpu/main.s
+
+# target to generate assembly for a file
+test_speed_002_cpu/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_002_cpu_main.dir/build.make CMakeFiles/test_speed_002_cpu_main.dir/test_speed_002_cpu/main.cpp.s
+.PHONY : test_speed_002_cpu/main.cpp.s
+
+test_speed_003_limitation/main.o: test_speed_003_limitation/main.cpp.o
+.PHONY : test_speed_003_limitation/main.o
+
+# target to build an object file
+test_speed_003_limitation/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_003_limitation_main.dir/build.make CMakeFiles/test_speed_003_limitation_main.dir/test_speed_003_limitation/main.cpp.o
+.PHONY : test_speed_003_limitation/main.cpp.o
+
+test_speed_003_limitation/main.i: test_speed_003_limitation/main.cpp.i
+.PHONY : test_speed_003_limitation/main.i
+
+# target to preprocess a source file
+test_speed_003_limitation/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_003_limitation_main.dir/build.make CMakeFiles/test_speed_003_limitation_main.dir/test_speed_003_limitation/main.cpp.i
+.PHONY : test_speed_003_limitation/main.cpp.i
+
+test_speed_003_limitation/main.s: test_speed_003_limitation/main.cpp.s
+.PHONY : test_speed_003_limitation/main.s
+
+# target to generate assembly for a file
+test_speed_003_limitation/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_speed_003_limitation_main.dir/build.make CMakeFiles/test_speed_003_limitation_main.dir/test_speed_003_limitation/main.cpp.s
+.PHONY : test_speed_003_limitation/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -580,6 +654,8 @@ help:
 	@echo "... search_device_main"
 	@echo "... test_speed_000_main"
 	@echo "... test_speed_001_main"
+	@echo "... test_speed_002_cpu_main"
+	@echo "... test_speed_003_limitation_main"
 	@echo "... check_driver_000/main.o"
 	@echo "... check_driver_000/main.i"
 	@echo "... check_driver_000/main.s"
@@ -616,6 +692,12 @@ help:
 	@echo "... test_speed_001/main.o"
 	@echo "... test_speed_001/main.i"
 	@echo "... test_speed_001/main.s"
+	@echo "... test_speed_002_cpu/main.o"
+	@echo "... test_speed_002_cpu/main.i"
+	@echo "... test_speed_002_cpu/main.s"
+	@echo "... test_speed_003_limitation/main.o"
+	@echo "... test_speed_003_limitation/main.i"
+	@echo "... test_speed_003_limitation/main.s"
 .PHONY : help
 
 

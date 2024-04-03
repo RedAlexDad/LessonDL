@@ -545,6 +545,94 @@
 					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="test_speed_002_cpu_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_002_cpu_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_002_cpu_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_002_cpu_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_002_cpu_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_002_cpu_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_003_limitation_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_003_limitation_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_003_limitation_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_003_limitation_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_003_limitation_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_003_limitation_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
 				<Option type="4"/>
@@ -601,6 +689,12 @@
 		</Unit>
 		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/test_speed_001/main.cpp">
 			<Option target="test_speed_001_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/test_speed_002_cpu/main.cpp">
+			<Option target="test_speed_002_cpu_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/test_speed_003_limitation/main.cpp">
+			<Option target="test_speed_003_limitation_main"/>
 		</Unit>
 		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

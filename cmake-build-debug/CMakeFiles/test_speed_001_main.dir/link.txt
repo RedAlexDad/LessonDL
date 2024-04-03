@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_speed_001_main.dir/test_speed_001/main.cpp.o -o test_speed_001_main  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

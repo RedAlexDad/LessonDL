@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_perfomance.dir/main.cpp.o -o test_perfomance  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtensorflow.so /usr/lib/x86_64-linux-gnu/libOpenCL.so 

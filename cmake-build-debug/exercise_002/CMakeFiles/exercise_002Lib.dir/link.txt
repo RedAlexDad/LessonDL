@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libexercise_002.so -o libexercise_002.so CMakeFiles/exercise_002Lib.dir/main.cpp.o 

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/LessonDL.dir/example_001ru.cpp.o -o LessonDL  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/exercise_002.dir/main.cpp.o -o exercise_002  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtensorflow.so /usr/lib/x86_64-linux-gnu/libOpenCL.so 

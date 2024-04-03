@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LessonDL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "check_driver_000_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_driver_000_main-Debug-45fbabc7084e60cc086f.json",
+					"name" : "check_driver_000_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_000_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_000_main-Debug-0f764b978b566538bde7.json",
+					"name" : "example_000_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_001_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_001_main-Debug-4638db8167c63f0b1c62.json",
+					"name" : "example_001_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_001ru_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_001ru_main-Debug-40b5c2e3d405d1056b20.json",
+					"name" : "example_001ru_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_002_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_002_main-Debug-d58593228c2f6ce893cf.json",
+					"name" : "example_002_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_002ru_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_002ru_main-Debug-c3b4c24ff391f4c20e12.json",
+					"name" : "example_002ru_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_003_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_003_main-Debug-a5adee9c0f819d0aac5a.json",
+					"name" : "example_003_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_003ru_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_003ru_main-Debug-ca9adea84182aa79fe1e.json",
+					"name" : "example_003ru_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_world_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_world_main-Debug-3481c2e926da1ba8c783.json",
+					"name" : "hello_world_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_device_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_device_main-Debug-ffb4a377c882e23cc453.json",
+					"name" : "search_device_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_speed_000_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_speed_000_main-Debug-a942d94567cbc790ca14.json",
+					"name" : "test_speed_000_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_speed_001_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_speed_001_main-Debug-46225eb5bef866bbb5e1.json",
+					"name" : "test_speed_001_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL/cmake-build-debug",
+		"source" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

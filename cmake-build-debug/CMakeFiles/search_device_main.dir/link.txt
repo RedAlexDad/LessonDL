@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/search_device_main.dir/search_device/main.cpp.o -o search_device_main  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

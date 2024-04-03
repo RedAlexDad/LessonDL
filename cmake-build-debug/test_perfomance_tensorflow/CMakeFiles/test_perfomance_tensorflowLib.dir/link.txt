@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libtest_perfomance_tensorflow.so -o libtest_perfomance_tensorflow.so CMakeFiles/test_perfomance_tensorflowLib.dir/main.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libtest_perfomance.so -o libtest_perfomance.so CMakeFiles/test_perfomanceLib.dir/main.cpp.o 

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LessonDL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_driver_000_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/check_driver_000_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_driver_000_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_driver_000_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/check_driver_000_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_driver_000_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_000_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_000_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_000_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_000_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_000_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_000_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_001_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_001_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_001_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_001_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_001_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_001_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_001ru_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_001ru_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_001ru_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_001ru_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_001ru_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_001ru_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_002_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_002_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_002_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_002_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_002_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_002_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_002ru_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_002ru_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_002ru_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_002ru_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_002ru_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_002ru_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_003_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_003_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_003_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_003_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_003_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_003_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_003ru_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_003ru_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_003ru_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_003ru_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/example_003ru_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_003ru_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/hello_world_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello_world_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/hello_world_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello_world_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_device_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/search_device_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_device_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_device_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/search_device_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_device_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_000_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_000_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_000_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_000_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_000_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_000_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_001_main">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_001_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_001_main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_speed_001_main/fast">
+				<Option output="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/test_speed_001_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_speed_001_main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/check_driver_000/main.cpp">
+			<Option target="check_driver_000_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_000/main.cpp">
+			<Option target="example_000_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_001/main.cpp">
+			<Option target="example_001_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_001ru/main.cpp">
+			<Option target="example_001ru_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_002/main.cpp">
+			<Option target="example_002_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_002ru/main.cpp">
+			<Option target="example_002ru_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_003/main.cpp">
+			<Option target="example_003_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/example_003ru/main.cpp">
+			<Option target="example_003ru_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/hello_world/main.cpp">
+			<Option target="hello_world_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/search_device/main.cpp">
+			<Option target="search_device_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/test_speed_000/main.cpp">
+			<Option target="test_speed_000_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/test_speed_001/main.cpp">
+			<Option target="test_speed_001_main"/>
+		</Unit>
+		<Unit filename="/home/redalexdad/Документы/GitHub/LessonDL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

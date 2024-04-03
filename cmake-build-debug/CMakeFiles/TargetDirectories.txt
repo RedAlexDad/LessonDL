@@ -1,0 +1,14 @@
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/check_driver_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_001ru_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_002_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_002ru_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_003_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/example_003ru_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/hello_world_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/search_device_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/test_speed_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/test_speed_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

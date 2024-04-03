@@ -15,6 +15,10 @@ float sum_array(float *array, int size) {
 // g++ -shared -o libexample.so example.o
 
 int main() {
+    float arr[] = {1, 2, 3, 4};
 
+    float sum = sum_array(arr, 4);
+
+    std::cout << sum << std::endl;
     return 0;
 }

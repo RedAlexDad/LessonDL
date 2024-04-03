@@ -7,9 +7,6 @@ lib.fibonacci_cpp.argtype = [ctypes.c_int]
 lib.fibonacci_cpp.restype = ctypes.c_int
 
 
-
-
-
 def fibonacci_python(n):
     if n <= 1:
         return n
@@ -25,6 +22,7 @@ def measure_python_performance(n):
 
     return result, time_measure
 
+
 def fibonacci_cpp(n):
     start_time = time.time()
     result = lib.fibonacci_cpp(n)
@@ -32,7 +30,6 @@ def fibonacci_cpp(n):
     time_measure = end_time - start_time
 
     return result, time_measure
-
 
 
 if __name__ == "__main__":
@@ -47,4 +44,4 @@ if __name__ == "__main__":
     print('Размер фибоначчи: ', n)
     print(f'Результат вызова функции на C/C++: {result_cpp}, время: {cpp_time}')
     print(f'Результат вызова функции на Python: {result_python}, время: {python_time}')
-    print(f'C/C++ быстрее Python в разы: {python_time/cpp_time}')
+    print(f'C/C++ быстрее Python в разы: {python_time / cpp_time}')

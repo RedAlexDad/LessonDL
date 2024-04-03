@@ -4,5 +4,6 @@ project(LessonDL)
 # Добавляем подпроекты
 add_subdirectory(exercise_001)
 add_subdirectory(exercise_002)
-add_subdirectory(test_perfomance_tensorflow)
 add_subdirectory(test_perfomance)
+add_subdirectory(test_perfomance_tensorflow)
+add_subdirectory(test_perfomance_pytorch)

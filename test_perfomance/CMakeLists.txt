@@ -27,7 +27,6 @@ target_link_libraries(
         ${OpenCL_LIBRARIES}
 )
 
-
 # Создаем shared library
 add_library(
         test_perfomanceLib SHARED

@@ -1,0 +1,4 @@
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance_pytorch/build/CMakeFiles/test_perfomance_pytorch.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance_pytorch/build/CMakeFiles/test_perfomance_pytorchLib.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance_pytorch/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test_perfomance_pytorch/build/CMakeFiles/rebuild_cache.dir

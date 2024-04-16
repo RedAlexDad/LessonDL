@@ -8,10 +8,10 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake",
-			"cpack" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/bin/cpack",
-			"ctest" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/bin/ctest",
-			"root" : "/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27"
+			"cmake" : "/home/redalexdad/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake",
+			"cpack" : "/home/redalexdad/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cpack",
+			"ctest" : "/home/redalexdad/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/ctest",
+			"root" : "/home/redalexdad/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.27"
 		},
 		"version" : 
 		{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-d901a2f8a6898313a9e0.json",
+			"jsonFile" : "cache-v2-98ca379ea6d783da9b03.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-fb8ec2f8937853c862e9.json",
+			"jsonFile" : "cmakeFiles-v1-a84d4031daea0056a7d4.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-d901a2f8a6898313a9e0.json",
+			"jsonFile" : "cache-v2-98ca379ea6d783da9b03.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-fb8ec2f8937853c862e9.json",
+			"jsonFile" : "cmakeFiles-v1-a84d4031daea0056a7d4.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{

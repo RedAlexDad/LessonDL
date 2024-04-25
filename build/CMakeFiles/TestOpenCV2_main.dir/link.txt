@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TestOpenCV2_main.dir/TestOpenCV2/main.cpp.o -o TestOpenCV2_main 

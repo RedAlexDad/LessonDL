@@ -1,0 +1,3 @@
+/home/redalexdad/Документы/VS Code/OpenCV/TestOpenCV2/build/CMakeFiles/main.dir
+/home/redalexdad/Документы/VS Code/OpenCV/TestOpenCV2/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/VS Code/OpenCV/TestOpenCV2/build/CMakeFiles/rebuild_cache.dir

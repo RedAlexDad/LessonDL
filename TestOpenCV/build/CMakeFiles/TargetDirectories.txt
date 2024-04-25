@@ -1,0 +1,3 @@
+/home/redalexdad/Документы/VS Code/OpenCVRasperberry/cpp/build/CMakeFiles/test.dir
+/home/redalexdad/Документы/VS Code/OpenCVRasperberry/cpp/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/VS Code/OpenCVRasperberry/cpp/build/CMakeFiles/rebuild_cache.dir

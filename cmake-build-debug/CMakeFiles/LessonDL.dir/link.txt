@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsycl -g -rdynamic "CMakeFiles/LessonDL.dir/simple-sycl-app/simple-sycl-app.cpp.o" -o LessonDL 

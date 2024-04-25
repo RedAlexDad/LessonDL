@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/simple-sycl-app_simple-sycl-app.dir/simple-sycl-app/simple-sycl-app.cpp.o" -o simple-sycl-app_simple-sycl-app  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

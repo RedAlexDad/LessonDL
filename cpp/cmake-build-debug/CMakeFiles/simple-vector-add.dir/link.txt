@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/simple-vector-add.dir/simple-vector-add/simple-vector-add.cpp.o" -o simple-vector-add  -ltensorflow 

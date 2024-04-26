@@ -1,11 +1,7 @@
+/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir
 /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/exercise_000/CMakeFiles/edit_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/exercise_000/CMakeFiles/rebuild_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/exercise_001/CMakeFiles/edit_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/exercise_001/CMakeFiles/rebuild_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/check_torch/CMakeFiles/edit_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/check_torch/CMakeFiles/rebuild_cache.dir

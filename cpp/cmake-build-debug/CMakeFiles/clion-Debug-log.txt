@@ -1,4 +1,4 @@
-/home/redalexdad/Programs/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/redalexdad/Документы/GitHub/LessonDL/cpp -B /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug
+/home/redalexdad/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/redalexdad/Документы/GitHub/LessonDL/cpp -B /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug
 CMake Deprecation Warning:
   Support for "Extra Generators" like
 
@@ -8,6 +8,22 @@ CMake Deprecation Warning:
   use the cmake-file-api(7) to view CMake-generated project build trees.
 
 
--- Configuring done (0.1s)
+-- Caffe2: CUDA detected: 12.0
+-- Caffe2: CUDA nvcc is: /usr/bin/nvcc
+-- Caffe2: CUDA toolkit directory: /usr
+-- Caffe2: Header version is: 12.0
+CMake Warning at /usr/local/lib/libtorch_cuda/share/cmake/Caffe2/public/cuda.cmake:184 (message):
+  Failed to compute shorthash for libnvrtc.so
+Call Stack (most recent call first):
+  /usr/local/lib/libtorch_cuda/share/cmake/Caffe2/Caffe2Config.cmake:87 (include)
+  /usr/local/lib/libtorch_cuda/share/cmake/Torch/TorchConfig.cmake:68 (find_package)
+  CMakeLists.txt:8 (find_package)
+
+
+-- USE_CUDNN is set to 0. Compiling without cuDNN support
+-- USE_CUSPARSELT is set to 0. Compiling without cuSPARSELt support
+-- Autodetected CUDA architecture(s):  7.5
+-- Added CUDA NVCC flags for: -gencode;arch=compute_75,code=sm_75
+-- Configuring done (1.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug

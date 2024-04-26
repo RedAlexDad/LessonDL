@@ -11,9 +11,11 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="LessonDL" targetName="exercise_000" />
-      <config projectName="LessonDL" targetName="exercise_001" />
-      <config projectName="LessonDL" targetName="check_torch" />
+      <config projectName="LessonDL" targetName="check_torch_cpu_main" />
+      <config projectName="LessonDL" targetName="exercise_001_main" />
+      <config projectName="LessonDL" targetName="check_torch_cuda_main" />
+      <config projectName="LessonDL" targetName="exercise_000_main" />
+      <config projectName="LessonDL" targetName="exercise_002_main" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -47,6 +49,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RedAlexDad"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RedAlexDad/LessonDL.git",
+    "accountId": "58edd8e2-61e2-4918-8d51-e6086a4ad559"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="g7r3f1qc" />
   </component>
@@ -66,11 +80,19 @@
   "keyToString": {
     "CMake Application.LessonDL.executor": "Run",
     "CMake Application.check_torch.executor": "Run",
+    "CMake Application.check_torch_check_torch.executor": "Run",
+    "CMake Application.check_torch_cpu_main.executor": "Run",
+    "CMake Application.check_torch_cuda_main.executor": "Run",
     "CMake Application.exercise_000.executor": "Run",
+    "CMake Application.exercise_000_main.executor": "Run",
     "CMake Application.exercise_001.executor": "Run",
+    "CMake Application.exercise_001_main.executor": "Run",
+    "CMake Application.exercise_002_main.executor": "Run",
+    "CMake Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
@@ -98,31 +120,43 @@
       <recent name="$PROJECT_DIR$/cpp/exercise_000" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.exercise_001">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="check_torch" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="check_torch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="check_torch">
+  <component name="RunManager" selected="CMake Application.exercise_002_main">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise_000" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_000" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_000">
+    <configuration name="check_torch_cpu_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="check_torch_cpu_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="check_torch_cpu_main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise_001" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_001" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_001">
+    <configuration name="check_torch_cuda_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="check_torch_cuda_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="check_torch_cuda_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise_000_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_000_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_000_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise_001_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_001_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_001_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise_002_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="exercise_002_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="exercise_002_main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.check_torch" />
-      <item itemvalue="CMake Application.exercise_000" />
-      <item itemvalue="CMake Application.exercise_001" />
+      <item itemvalue="CMake Application.check_torch_cpu_main" />
+      <item itemvalue="CMake Application.check_torch_cuda_main" />
+      <item itemvalue="CMake Application.exercise_000_main" />
+      <item itemvalue="CMake Application.exercise_001_main" />
+      <item itemvalue="CMake Application.exercise_002_main" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -138,6 +172,7 @@
       <workItem from="1708682824600" duration="1896000" />
       <workItem from="1708688245361" duration="721000" />
       <workItem from="1708689601055" duration="5623000" />
+      <workItem from="1714152345221" duration="1708000" />
     </task>
     <servers />
   </component>
@@ -148,5 +183,8 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

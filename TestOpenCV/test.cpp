@@ -13,7 +13,7 @@ int main() {
     }
 
     // Отображение изображения
-    imshow("Пример изображения", image);
+    imshow("Example image", image);
     waitKey(0);
 
     return 0;

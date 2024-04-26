@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/TestOpenCV1/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -o TestOpenCV1_CMakeCXXCompilerId 

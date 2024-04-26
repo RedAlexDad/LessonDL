@@ -1,5 +1,5 @@
-CMakeFiles/main.dir/main.cpp.o: \
- /home/redalexdad/Документы/GitHub/LessonDL/TestOpenCV3/main.cpp \
+CMakeFiles/test.dir/test.cpp.o: \
+ /home/redalexdad/Документы/GitHub/LessonDL/TestOpenCV/test.cpp \
  /usr/include/stdc-predef.h /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

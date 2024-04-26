@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="LessonDL" targetName="simple-sycl-app_simple-sycl-app" />
+      <config projectName="Project" targetName="simple-sycl-app_simple-sycl-app" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -21,7 +21,162 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66699574-9c4d-4472-9e57-ffa0d7883834" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LessonDL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/test.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/CMakeFiles/test.dir/test.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/build/test" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/build/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/CMakeFiles/main.dir/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/build/main" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/build/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenCV3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TestOpenCV3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Progress/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Progress/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Progress/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Progress/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV1_main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV2_main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV3_main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/TestOpenCV/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/TestOpenCV/build/CMakeFiles/3.26.3/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/TestOpenCV/test.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/TestOpenCV/test.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TestOpenCV_test.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/TestOpenCV_CMakeCXXCompilerId" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cmake_install.cmake" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +197,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RedAlexDad"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RedAlexDad/LessonDL.git",
+    "accountId": "58edd8e2-61e2-4918-8d51-e6086a4ad559"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="g7r3f1qc" />
   </component>
@@ -88,7 +255,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;OpenCV&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/redalexdad/Документы/GitHub/LessonDL&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/redalexdad/Документы/GitHub/LessonDL/TestOpenCV/build&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,11 +269,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestOpenCV/build" />
+      <recent name="$PROJECT_DIR$/TestOpenCV3/build" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/example_002ru" />
       <recent name="$PROJECT_DIR$/example_002" />
-      <recent name="$PROJECT_DIR$/example_001ru" />
-      <recent name="$PROJECT_DIR$/example_001" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -137,6 +304,7 @@
       <workItem from="1714041081198" duration="345000" />
       <workItem from="1714041449142" duration="101000" />
       <workItem from="1714041560603" duration="243000" />
+      <workItem from="1714159635182" duration="58000" />
     </task>
     <servers />
   </component>

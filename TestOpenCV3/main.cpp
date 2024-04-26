@@ -67,7 +67,7 @@ int main() {
             }
         } 
 
-        imshow("Камера", frame);
+        imshow("Camera", frame);
         if (waitKey(1) == 'q') {
             break;
         }

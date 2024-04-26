@@ -8,7 +8,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 
 # Устанавливаем переменную CMAKE_PREFIX_PATH
-set(CMAKE_PREFIX_PATH "/home/redalexdad/AdaptiveCpp")
+set(CMAKE_PREFIX_PATH "/usr/local/lib/AdaptiveCpp")
 # Находим пакет AdaptiveCpp
 find_package(AdaptiveCpp CONFIG REQUIRED)
 

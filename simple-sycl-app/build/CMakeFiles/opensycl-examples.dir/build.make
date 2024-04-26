@@ -71,11 +71,11 @@ include CMakeFiles/opensycl-examples.dir/flags.make
 
 CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: CMakeFiles/opensycl-examples.dir/flags.make
 CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: /home/redalexdad/Документы/GitHub/LessonDL/simple-sycl-app/simple-sycl-app.cpp
-CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: /home/redalexdad/AdaptiveCpp/lib/cmake/AdaptiveCpp/syclcc-launcher
+CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: /usr/local/lib/AdaptiveCpp/lib/cmake/AdaptiveCpp/syclcc-launcher
 CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: CMakeFiles/adaptivecpp-syclcc-launch.rule
 CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: CMakeFiles/opensycl-examples.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/redalexdad/Документы/GitHub/LessonDL/simple-sycl-app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o"
-	 /home/redalexdad/AdaptiveCpp/lib/cmake/AdaptiveCpp/syclcc-launcher --launcher-cxx-compiler=/usr/bin/c++ --launcher-syclcc=/home/redalexdad/AdaptiveCpp/bin/acpp  /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o -MF CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o.d -o CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o -c /home/redalexdad/Документы/GitHub/LessonDL/simple-sycl-app/simple-sycl-app.cpp
+	 /usr/local/lib/AdaptiveCpp/lib/cmake/AdaptiveCpp/syclcc-launcher --launcher-cxx-compiler=/usr/bin/c++ --launcher-syclcc=/usr/local/lib/AdaptiveCpp/bin/acpp  /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o -MF CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o.d -o CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o -c /home/redalexdad/Документы/GitHub/LessonDL/simple-sycl-app/simple-sycl-app.cpp
 
 CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.i"
@@ -94,7 +94,7 @@ opensycl__examples_EXTERNAL_OBJECTS =
 
 opensycl-examples: CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o
 opensycl-examples: CMakeFiles/opensycl-examples.dir/build.make
-opensycl-examples: /home/redalexdad/AdaptiveCpp/lib/libacpp-rt.so
+opensycl-examples: /usr/local/lib/AdaptiveCpp/lib/libacpp-rt.so
 opensycl-examples: CMakeFiles/opensycl-examples.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/redalexdad/Документы/GitHub/LessonDL/simple-sycl-app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable opensycl-examples"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opensycl-examples.dir/link.txt --verbose=$(VERBOSE)

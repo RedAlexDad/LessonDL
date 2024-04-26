@@ -46,7 +46,7 @@ ACPP_TARGETS:STRING=
 ACPP_USE_ACCELERATED_CPU:STRING=
 
 //The directory containing a CMake configuration file for AdaptiveCpp.
-AdaptiveCpp_DIR:PATH=/home/redalexdad/AdaptiveCpp/lib/cmake/AdaptiveCpp
+AdaptiveCpp_DIR:PATH=/usr/local/lib/AdaptiveCpp/lib/cmake/AdaptiveCpp
 
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line

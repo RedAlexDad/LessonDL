@@ -54,7 +54,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/share/hipSYCL/examples/opensycl-examples")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/share/hipSYCL/examples/opensycl-examples"
-         OLD_RPATH "/home/redalexdad/AdaptiveCpp/lib:"
+         OLD_RPATH "/usr/local/lib/AdaptiveCpp/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/share/hipSYCL/examples/opensycl-examples")

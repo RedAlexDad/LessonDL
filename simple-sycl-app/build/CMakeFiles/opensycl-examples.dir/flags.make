@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DHIPSYCL_DEBUG_LEVEL=2
 
-CXX_INCLUDES = -isystem /home/redalexdad/AdaptiveCpp/include -isystem /home/redalexdad/AdaptiveCpp/include/AdaptiveCpp
+CXX_INCLUDES = -isystem /usr/local/lib/AdaptiveCpp/include -isystem /usr/local/lib/AdaptiveCpp/include/AdaptiveCpp
 
 CXX_FLAGS = -O3 -DNDEBUG -std=c++17
 

@@ -1,8 +1,8 @@
 CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /home/redalexdad/Документы/GitHub/LessonDL/simple-sycl-app/simple-sycl-app.cpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/sycl.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/sycl.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/persistent_runtime.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/sycl.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/sycl.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/persistent_runtime.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/memory \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/memoryfwd.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -138,8 +138,8 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/backward/auto_ptr.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/pstl/glue_memory_defs.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/pstl/execution_defs.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/application.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/application.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/backend.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/string \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/char_traits.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/localefwd.h \
@@ -198,7 +198,7 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stl_vector.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stl_bvector.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/vector.tcc \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/device_id.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/device_id.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/functional \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/std_function.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/array \
@@ -230,10 +230,10 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/locale_facets.tcc \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/basic_ios.tcc \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/ostream.tcc \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/backend_loader.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/backend_loader.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/utility \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stl_relops.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/settings.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/settings.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/optional \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/algorithm \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/pstl/glue_algorithm_defs.h \
@@ -242,38 +242,38 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/istream.tcc \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/sstream.tcc \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/iostream \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/extensions.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/cuda/cuda_backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/hip/hip_backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/spirv/spirv_backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/sscp_backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/ir_constants.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/s1_ir_constants.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/s2_ir_constants.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/core.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/builtin_config.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/../../memory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/half_representation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/bit_cast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/int_types.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/fp16/fp16.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/fp16/bitcasts.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/host_backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/bit_cast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/bit_cast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/range.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/id.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/util.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/extensions.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/cuda/cuda_backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/hip/hip_backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/spirv/spirv_backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/sscp_backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/ir_constants.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/s1_ir_constants.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/s2_ir_constants.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/core.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/builtin_config.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/../../memory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/half_representation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/bit_cast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/int_types.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/fp16/fp16.h \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/fp16/bitcasts.h \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/host_backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/bit_cast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/bit_cast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/range.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/id.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/util.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/cstdint \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/device_array.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/accessor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/device_array.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/accessor.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/iterator \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stream_iterator.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/debug.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/embedded_pointer.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/host/host_backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/debug.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/embedded_pointer.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/host/host_backend.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/cstring \
   /usr/include/string.h /usr/include/strings.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/chrono \
@@ -312,132 +312,132 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/numeric \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stl_numeric.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/pstl/glue_numeric_defs.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/error.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/small_vector.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/sbo/small_vector.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/error.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/async_errors.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/error.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/small_vector.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/sbo/small_vector.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/error.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/async_errors.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/mutex \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/std_mutex.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/unique_lock.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/exception.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/info.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/context.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/../types.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/exception.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/info.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/context.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/../types.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/thread \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/std_thread.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/this_thread_sleep.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/../libkernel/detail/int_types.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/device.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/aspect.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/../aspect.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/platform.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/kernel.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/range.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/program.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/types.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/runtime.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_manager.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hints.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/operations.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/kernel_names.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/access.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/data.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_node.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/../libkernel/detail/int_types.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/device.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/aspect.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/../aspect.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/platform.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/kernel.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/range.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/info/program.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/types.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/runtime.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_manager.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hints.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/operations.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/kernel_names.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/access.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/data.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_node.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/atomic \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/allocator.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/allocator.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/instrumentation.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/future \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/condition_variable \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/atomic_futex.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/typeindex \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/signal_channel.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/kernel_launcher.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/kernel_configuration.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/stable_running_hash.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hw_model/cost.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_builder.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_direct_scheduler.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_unbound_scheduler.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_submitted_ops.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/generic/async_worker.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/signal_channel.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/kernel_launcher.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/kernel_configuration.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/stable_running_hash.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hw_model/cost.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_builder.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_direct_scheduler.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_unbound_scheduler.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/dag_submitted_ops.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/generic/async_worker.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/queue \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/deque \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stl_deque.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/deque.tcc \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/stl_queue.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/extensions.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/buffer.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/device.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/version.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/config.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hardware.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/property.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/context.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/platform.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/device_selector.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/device_list.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/buffer_allocator.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/id.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/../common/reinterpret_pointer_cast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/accessor.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/data_layout.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../id.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../range.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/multi_ptr.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/memory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/atomic.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/host/atomic_builtins.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/bit_cast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/atomic_builtins.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/builtin_dispatch.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/atomic_builtins.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/atomic_builtins.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/detail/util.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/atomic.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/local_memory_allocator.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../sscp/builtins/localmem.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../sscp/builtins/builtin_config.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/mobile_shared_ptr.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/nd_item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/nd_range.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/device_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/h_item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/thread_hierarchy.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/mem_fence.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sub_group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/memory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/subgroup.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sp_item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/device_barrier.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/barrier.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/builtin_config.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sp_group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/data_layout.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sp_item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sub_group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/generic/host/iterate_range.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sp_private_memory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/memory_environment.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/private_memory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/local_memory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/half.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/half.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/vec.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/marray.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/builtins.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/vec.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/builtin_interface.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/builtin_dispatch.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/extensions.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/buffer.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/device.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/version.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/config.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hardware.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/property.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/context.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/platform.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/device_selector.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/device_list.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/buffer_allocator.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/id.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/../common/reinterpret_pointer_cast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/accessor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/data_layout.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../id.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../range.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/multi_ptr.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/memory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/atomic.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/host/atomic_builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/bit_cast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/atomic_builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/builtin_dispatch.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/atomic_builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/atomic_builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/detail/util.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/atomic.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/local_memory_allocator.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../sscp/builtins/localmem.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/../sscp/builtins/builtin_config.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/mobile_shared_ptr.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/nd_item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/nd_range.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/device_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/h_item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/thread_hierarchy.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/mem_fence.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sub_group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/memory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/subgroup.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sp_item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/device_barrier.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/barrier.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/builtin_config.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sp_group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/data_layout.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sp_item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sub_group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/generic/host/iterate_range.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sp_private_memory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/memory_environment.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/private_memory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/local_memory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/half.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/half.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/vec.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/marray.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/vec.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/builtin_interface.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/detail/builtin_dispatch.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/builtins.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bitset \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/climits \
   /usr/lib/llvm-18/lib/clang/18/include/limits.h /usr/include/limits.h \
@@ -447,59 +447,59 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/math.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/native.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/integer.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/relational.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/print.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/atomic_ref.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/stream.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/print.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group_traits.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group_functions.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/group_functions.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../detail/data_layout.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../detail/mem_fence.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../functional.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../id.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../sub_group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../vec.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/group_functions.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../detail/data_layout.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../detail/mem_fence.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../functional.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../id.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../sub_group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../vec.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../marray.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../bit_cast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../half.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/barrier.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/broadcast.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/collpredicate.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/reduction.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/shuffle.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group_functions_alias.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/functional.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/reduction.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/version.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/types.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/exception.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/device_selector.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/device.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/platform.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/inorder_executor.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/executor.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/inorder_queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/code_object_invoker.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/kernel_cache.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/hcf_container.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/math.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/native.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/integer.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/relational.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/print.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/atomic_ref.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/stream.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sscp/builtins/print.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group_traits.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group_functions.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/group_functions.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../detail/data_layout.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../detail/mem_fence.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../functional.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../id.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../sub_group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/host/../vec.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/group_functions.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../detail/data_layout.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../detail/mem_fence.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../functional.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../id.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../sub_group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../vec.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../marray.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../bit_cast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/../half.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/barrier.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/broadcast.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/collpredicate.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/reduction.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/sscp/builtins/shuffle.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/group_functions_alias.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/functional.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/reduction.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/version.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/types.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/exception.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/device_selector.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/device.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/platform.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/inorder_executor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/executor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/inorder_queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/code_object_invoker.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/kernel_cache.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/hcf_container.hpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/locale \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/locale_facets_nonio.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/x86_64-linux-gnu/c++/13/bits/time_members.h \
@@ -508,67 +508,67 @@ CMakeFiles/opensycl-examples.dir/simple-sycl-app.cpp.o: \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/codecvt.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/locale_facets_nonio.tcc \
   /usr/lib/gcc/x86_64-linux-gnu/13/../../../../include/c++/13/bits/locale_conv.h \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/small_map.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/property.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/context.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/info/info.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/handler.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/access.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/usm_query.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/builtin_kernels.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/detail/util.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/kernel_launcher_factory.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/sscp_kernel_launcher.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/generic/code_object.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/interop_handle.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/backend_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/backend_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/multi_queue_executor.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/generic/multi_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/generic/../event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/cuda/cuda_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../executor.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../inorder_queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../generic/host_timestamped_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_instrumentation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../inorder_queue_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../generic/timestamp_delta_instrumentation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../generic/../event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../instrumentation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_code_object.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/hip/hip_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/hip_queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../executor.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../inorder_queue.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../generic/host_timestamped_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../code_object_invoker.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/hip_instrumentation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/hip_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../inorder_queue_event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../generic/timestamp_delta_instrumentation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../instrumentation.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/ze/ze_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/omp/omp_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/kernel.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/program.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/event.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/stream.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/thread_hierarchy.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/nd_item.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sp_group.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/detail/function_set.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/detail/../types.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/program.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/kernel.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/buffer.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/usm.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/backend.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/backend_interop.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/interop_handle.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/buffer_explicit_behavior.hpp \
-  /home/redalexdad/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/specialized.hpp
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/common/small_map.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/property.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/context.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/info/info.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/handler.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/access.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/usm_query.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/libkernel/builtin_kernels.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/detail/util.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/kernel_launcher_factory.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/llvm-sscp/sscp_kernel_launcher.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/generic/code_object.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/interop_handle.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/backend_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/backend_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/multi_queue_executor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/generic/multi_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/generic/../event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/cuda/cuda_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../executor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../inorder_queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../generic/host_timestamped_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../inorder_queue_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../generic/timestamp_delta_instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../generic/../event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/../instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/cuda/cuda_code_object.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/hip/hip_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/hip_queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../executor.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../inorder_queue.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../generic/host_timestamped_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../code_object_invoker.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/hip_instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/hip_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../inorder_queue_event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../generic/timestamp_delta_instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/runtime/hip/../instrumentation.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/ze/ze_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/glue/omp/omp_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/kernel.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/program.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/event.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/stream.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/detail/thread_hierarchy.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/nd_item.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/hipSYCL/sycl/libkernel/sp_group.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/detail/function_set.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/detail/../types.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/program.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/kernel.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/buffer.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/usm.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/backend.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/backend_interop.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/interop_handle.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/buffer_explicit_behavior.hpp \
+  /usr/local/lib/AdaptiveCpp/bin/../include/AdaptiveCpp/sycl/../hipSYCL/sycl/specialized.hpp

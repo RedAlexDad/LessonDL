@@ -1,0 +1,13 @@
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/CMakeFiles/rebuild_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/CMakeFiles/list_install_components.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/CMakeFiles/install.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/CMakeFiles/install/local.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/CMakeFiles/install/strip.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/bruteforce_nbody.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/rebuild_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/list_install_components.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/install.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/install/local.dir
+/home/redalexdad/Документы/GitHub/LessonDL/test/build/bruteforce_nbody/CMakeFiles/install/strip.dir

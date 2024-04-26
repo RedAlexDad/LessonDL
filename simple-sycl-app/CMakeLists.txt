@@ -1,21 +1,38 @@
-cmake_minimum_required(VERSION 3.10)
-project(LessonDL)
+cmake_minimum_required(VERSION 3.5)
+project(opensycl-examples LANGUAGES CXX)
 
-# Укажите путь к заголовочным файлам SYCL от OneAPI
-set(SYCL_INCLUDE_DIR "/opt/intel/oneapi/compiler/latest/include/sycl/CL")
+# Устанавливаем стандарт C++
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
 
-# Укажите путь к библиотекам компилятора OneAPI (если это необходимо)
-set(SYCL_LIBRARY_DIR "/opt/intel/oneapi/compiler/latest/lib")
 
-# Добавляем путь к заголовочным файлам SYCL
-message(STATUS "SYCL_INCLUDE_DIR: ${SYCL_INCLUDE_DIR}")
-include_directories(${SYCL_INCLUDE_DIR})
+# Устанавливаем переменную CMAKE_PREFIX_PATH
+set(CMAKE_PREFIX_PATH "/home/redalexdad/AdaptiveCpp")
+# Находим пакет AdaptiveCpp
+find_package(AdaptiveCpp CONFIG REQUIRED)
 
-# Добавляем путь к библиотекам компилятора OneAPI (если это необходимо)
-link_directories(${SYCL_LIBRARY_DIR})
+add_executable(opensycl-examples simple-sycl-app.cpp)
+add_sycl_to_target(TARGET opensycl-examples SOURCES simple-sycl-app.cpp)
+install(TARGETS opensycl-examples RUNTIME DESTINATION share/hipSYCL/examples/)
 
-# Добавляем исполняемый файл вашего проекта
-add_executable(LessonDL simple-sycl-app.cpp)
+# Устанавливаем тип сборки, если не указан
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE Release)
+endif()
 
-# Линковка с библиотекой SYCL от OneAPI (если это необходимо)
-target_link_libraries(LessonDL sycl)
+# Устанавливаем уровень отладки, если не указан
+if(NOT ACPP_DEBUG_LEVEL)
+  if(CMAKE_BUILD_TYPE MATCHES "Debug")
+    set(ACPP_DEBUG_LEVEL 3 CACHE STRING
+      "Choose the debug level, options are: 0 (no debug), 1 (print errors), 2 (also print warnings), 3 (also print general information)"
+FORCE)
+  else()
+    set(ACPP_DEBUG_LEVEL 2 CACHE STRING
+      "Choose the debug level, options are: 0 (no debug), 1 (print errors), 2 (also print warnings), 3 (also print general information)"
+FORCE)
+  endif()
+endif()
+
+# Устанавливаем уровень отладки для AdaptiveCpp
+add_definitions(-DHIPSYCL_DEBUG_LEVEL=${ACPP_DEBUG_LEVEL})

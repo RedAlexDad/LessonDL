@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example_001ru_main.dir/example_001ru/main.cpp.o -o example_001ru_main  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

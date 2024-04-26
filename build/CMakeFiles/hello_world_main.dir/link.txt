@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello_world_main.dir/hello_world/main.cpp.o -o hello_world_main  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

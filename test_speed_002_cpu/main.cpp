@@ -2,7 +2,7 @@
 #include <vector>
 #include <chrono>
 // Определим конкретную версию
-#define CL_HPP_TARGET_OPENCL_VERSION 210
+// #define CL_HPP_TARGET_OPENCL_VERSION 210
 #include <CL/cl2.hpp>
 
 int main() {

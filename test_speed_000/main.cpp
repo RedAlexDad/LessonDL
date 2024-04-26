@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <chrono>
-#include <CL/cl.hpp>
+#include <CL/cl2.hpp>
 
 int main() {
     const int arraySize = 10;

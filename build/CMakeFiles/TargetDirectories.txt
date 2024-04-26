@@ -1,0 +1,15 @@
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/check_driver_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_001ru_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_002_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_002ru_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_003_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/example_003ru_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/hello_world_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/search_device_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/test_speed_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/test_speed_002_cpu_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/test_speed_003_limitation_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/build/CMakeFiles/rebuild_cache.dir

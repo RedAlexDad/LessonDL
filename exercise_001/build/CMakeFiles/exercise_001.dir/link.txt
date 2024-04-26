@@ -1,0 +1,1 @@
+ /usr/local/lib/AdaptiveCpp/lib/cmake/AdaptiveCpp/syclcc-launcher --launcher-cxx-compiler=/usr/bin/c++ --launcher-syclcc=/usr/local/lib/AdaptiveCpp/bin/acpp  /usr/bin/c++ CMakeFiles/exercise_001.dir/main.cpp.o -o exercise_001  -Wl,-rpath,/usr/local/lib/AdaptiveCpp/lib: /usr/local/lib/AdaptiveCpp/lib/libacpp-rt.so -Wl,-rpath-link,/usr/local/lib/AdaptiveCpp/lib 

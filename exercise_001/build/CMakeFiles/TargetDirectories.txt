@@ -1,0 +1,7 @@
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/exercise_001.dir
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/rebuild_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/list_install_components.dir
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/install.dir
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/install/local.dir
+/home/redalexdad/Документы/GitHub/LessonDL/exercise_001/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/local/lib/AdaptiveCpp/lib/cmake/AdaptiveCpp/syclcc-launcher --launcher-cxx-compiler=/usr/bin/c++ --launcher-syclcc=/usr/local/lib/AdaptiveCpp/bin/acpp 

@@ -1,0 +1,12 @@
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/exercise_000_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/exercise_000_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/exercise_001_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/exercise_001_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/simple-sycl-app_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/simple-sycl-app_simple-sycl-app.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/install.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/install/local.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/install/strip.dir

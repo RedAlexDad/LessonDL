@@ -1,0 +1,7 @@
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/hello_tf.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/driver.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/exercise_01.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/exercise_03.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

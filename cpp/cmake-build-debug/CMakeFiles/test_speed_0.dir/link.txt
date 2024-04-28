@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/test_speed_0.dir/test_speed_0/test_speed_0.cpp.o -o test_speed_0  -ltensorflow 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Hello_tf.dir/hello_tf.cpp.o -o Hello_tf  -Wl,-rpath,/usr/local/lib /usr/local/lib/libtensorflow.so 

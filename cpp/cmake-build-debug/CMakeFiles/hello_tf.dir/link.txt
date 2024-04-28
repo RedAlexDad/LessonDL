@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/hello_tf.dir/hello_tf/hello_tf.cpp.o -o hello_tf  -ltensorflow 

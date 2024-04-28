@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/exercise_02.dir/exercise_02/exercise_02.cpp.o -o exercise_02  -ltensorflow 

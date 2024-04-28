@@ -1,3 +1,0 @@
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/hello_tf/build/CMakeFiles/Hello_tf.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/hello_tf/build/CMakeFiles/edit_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/hello_tf/build/CMakeFiles/rebuild_cache.dir

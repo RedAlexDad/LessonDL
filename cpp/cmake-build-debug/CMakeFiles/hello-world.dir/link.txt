@@ -1,1 +1,0 @@
-/usr/bin/c++ -g "CMakeFiles/hello-world.dir/tensorflow-cc-examples/hello-world.cpp.o" -o hello-world  -ltensorflow 

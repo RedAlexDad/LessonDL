@@ -1,7 +1,0 @@
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/redalexdad/Документы/GitHub/LessonDL/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

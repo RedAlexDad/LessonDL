@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/main.dir/check_torch/main.cpp.o -o main 

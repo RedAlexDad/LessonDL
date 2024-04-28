@@ -25,9 +25,275 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66699574-9c4d-4472-9e57-ffa0d7883834" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/exercise_001/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/exercise_001/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/check_torch_cpu/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/check_torch_cpu/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/check_torch_cuda/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/check_torch_cuda/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/cache-v2-73f8910449e787757e46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-87eed249d2c1a0331ddf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f3a7466b478eda30862e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-28T06-43-14-0452.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/target-check_torch_cpu_main-Debug-1a8fc4566e69b6e1d8d6.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-check_torch_cpu_main-Debug-1a8fc4566e69b6e1d8d6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/target-check_torch_cuda_main-Debug-67c9a424cd3e603cc49c.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-check_torch_cuda_main-Debug-67c9a424cd3e603cc49c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/target-exercise_000_main-Debug-4df82f475b11a5c3c2d5.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-exercise_000_main-Debug-4df82f475b11a5c3c2d5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/target-exercise_001_main-Debug-8cb9dfbdcd2a0e6c4ea1.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-exercise_001_main-Debug-8cb9dfbdcd2a0e6c4ea1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/target-exercise_002_main-Debug-c6a9b2e7adac6fe6661d.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-exercise_002_main-Debug-c6a9b2e7adac6fe6661d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-0b2bda310ac97120d9a1.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-0b2bda310ac97120d9a1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeCUDACompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCUDACompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CUDA.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CUDA.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp4.ii" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp4.ii" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.sm_52.cubin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/CMakeCUDACompilerId.sm_52.cubin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.fatbin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.fatbin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.fatbin.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.fatbin.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.reg.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.reg.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.sm_52.cubin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCUDA/tmp/a_dlink.sm_52.cubin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/check_torch/check_torch.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/check_torch/check_torch.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/check_torch/check_torch.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/check_torch/check_torch.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_check_torch.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_check_torch.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/check_torch_cpu/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/check_torch_cpu/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/check_torch_cpu/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/check_torch_cpu/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cpu_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/check_torch_cuda/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/check_torch_cuda/main.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/check_torch_cuda_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_000_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_000_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/exercise_001/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/exercise_001/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_001_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_001_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/exercise_002/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/exercise_002/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/exercise_002/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/exercise_002/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/exercise_002_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exercise_002_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/LessonDL.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LessonDL.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/LessonDL.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/check_torch.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/exercise_000.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/LessonDL" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/LessonDL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/check_torch" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/check_torch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/check_torch.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/check_torch.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/exercise_000" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/exercise_000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch/exercise_000.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch/exercise_000.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch_check_torch" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch_check_torch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch_cpu_main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch_cpu_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/check_torch_cuda_main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/check_torch_cuda_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/detect_cuda_compute_capabilities.cu" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/detect_cuda_compute_capabilities.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/detect_cuda_version.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/detect_cuda_version.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/LessonDL.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/exercise_000.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/detect_cuda_compute_capabilities.cu" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/detect_cuda_compute_capabilities.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/detect_cuda_version.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/detect_cuda_version.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/exercise_000" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/exercise_000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000/exercise_000.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000/exercise_000.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_000_main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_000_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/exercise_001.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_001/exercise_001.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_001/exercise_001.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cmake-build-debug/exercise_002_main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exercise_002_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/exercise_000/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_000/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/exercise_001/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_001/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/exercise_002/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_002/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/driver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/test_speed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/test_speed_big.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +315,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RedAlexDad"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RedAlexDad&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RedAlexDad/LessonDL.git",
-    "accountId": "58edd8e2-61e2-4918-8d51-e6086a4ad559"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RedAlexDad/LessonDL.git&quot;,
+    &quot;accountId&quot;: &quot;58edd8e2-61e2-4918-8d51-e6086a4ad559&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="g7r3f1qc" />
   </component>
@@ -97,8 +363,8 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "PyTorch",
-    "last_opened_file_path": "/home/redalexdad/Документы/GitHub/LessonDL/cpp",
+    "git-widget-placeholder": "LibTorch",
+    "last_opened_file_path": "/home/redalexdad/Документы/GitHub/LessonDL/CMakeLists.txt",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,14 +382,15 @@
       <recent name="$PROJECT_DIR$/python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/cpp/exercise_001" />
       <recent name="$PROJECT_DIR$/cpp/exercise_000" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.exercise_002_main">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="CMake Application.check_torch_cuda_main">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="check_torch_cpu_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LessonDL" TARGET_NAME="check_torch_cpu_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LessonDL" RUN_TARGET_NAME="check_torch_cpu_main">

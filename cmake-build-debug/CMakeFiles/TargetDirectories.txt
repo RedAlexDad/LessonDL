@@ -1,0 +1,10 @@
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV_test.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV1_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV1_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV2_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV2_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV3_CMakeCXXCompilerId.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/TestOpenCV3_main.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redalexdad/Документы/GitHub/LessonDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

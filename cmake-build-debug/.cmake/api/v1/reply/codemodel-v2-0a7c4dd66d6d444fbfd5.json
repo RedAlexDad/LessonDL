@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LessonDL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV1_CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV1_CMakeCXXCompilerId-Debug-b2327d52cf293f5d270d.json",
+					"name" : "TestOpenCV1_CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV1_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV1_main-Debug-9e2d788e831d39de23db.json",
+					"name" : "TestOpenCV1_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV2_CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV2_CMakeCXXCompilerId-Debug-78601037cade1dce47af.json",
+					"name" : "TestOpenCV2_CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV2_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV2_main-Debug-74e865441cb51511cb83.json",
+					"name" : "TestOpenCV2_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV3_CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV3_CMakeCXXCompilerId-Debug-93a96e15e4701adc380f.json",
+					"name" : "TestOpenCV3_CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV3_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV3_main-Debug-76ebeb47d00e0d42f182.json",
+					"name" : "TestOpenCV3_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV_CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV_CMakeCXXCompilerId-Debug-e2bdfc2592aebe765fc0.json",
+					"name" : "TestOpenCV_CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestOpenCV_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestOpenCV_test-Debug-12b51ad8659679929ab9.json",
+					"name" : "TestOpenCV_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL/cmake-build-debug",
+		"source" : "/home/redalexdad/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/LessonDL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

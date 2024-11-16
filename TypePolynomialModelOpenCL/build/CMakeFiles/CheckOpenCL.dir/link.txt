@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CheckOpenCL.dir/check_drive.cpp.o -o CheckOpenCL  /usr/lib/x86_64-linux-gnu/libOpenCL.so 

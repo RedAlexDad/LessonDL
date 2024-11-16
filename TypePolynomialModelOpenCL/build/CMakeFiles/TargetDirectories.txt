@@ -1,0 +1,4 @@
+/home/redalexdad/GitHub/HwTasksBmstu/TypePolynomialModelOpenCL/build/CMakeFiles/CheckOpenCL.dir
+/home/redalexdad/GitHub/HwTasksBmstu/TypePolynomialModelOpenCL/build/CMakeFiles/HybridMemoryPolynomialModel.dir
+/home/redalexdad/GitHub/HwTasksBmstu/TypePolynomialModelOpenCL/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/GitHub/HwTasksBmstu/TypePolynomialModelOpenCL/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/check_device_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/exercise_000_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/exercise_001_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/simple-sycl-app_simple-sycl-app.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/machine_learning_001_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/machine_learning_002_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/machine_learning_003_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/machine_learning_004_main.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/edit_cache.dir
+/home/redalexdad/GitHub/LessonDL/build/CMakeFiles/rebuild_cache.dir

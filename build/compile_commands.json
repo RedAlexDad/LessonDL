@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/check_device_main.dir/check_device/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/check_device/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/check_device/main.cpp",
+  "output": "CMakeFiles/check_device_main.dir/check_device/main.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/exercise_000/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/exercise_000/main.cpp",
+  "output": "CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/exercise_001_main.dir/exercise_001/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/exercise_001/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/exercise_001/main.cpp",
+  "output": "CMakeFiles/exercise_001_main.dir/exercise_001/main.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/simple-sycl-app_simple-sycl-app.dir/simple-sycl-app/simple-sycl-app.cpp.o -c /home/redalexdad/GitHub/LessonDL/simple-sycl-app/simple-sycl-app.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/simple-sycl-app/simple-sycl-app.cpp",
+  "output": "CMakeFiles/simple-sycl-app_simple-sycl-app.dir/simple-sycl-app/simple-sycl-app.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/machine_learning_001_main.dir/machine_learning_001/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/machine_learning_001/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/machine_learning_001/main.cpp",
+  "output": "CMakeFiles/machine_learning_001_main.dir/machine_learning_001/main.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/machine_learning_002_main.dir/machine_learning_002/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/machine_learning_002/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/machine_learning_002/main.cpp",
+  "output": "CMakeFiles/machine_learning_002_main.dir/machine_learning_002/main.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/machine_learning_003_main.dir/machine_learning_003/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/machine_learning_003/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/machine_learning_003/main.cpp",
+  "output": "CMakeFiles/machine_learning_003_main.dir/machine_learning_003/main.cpp.o"
+},
+{
+  "directory": "/home/redalexdad/GitHub/LessonDL/build",
+  "command": "icpx    -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization -std=c++20 -o CMakeFiles/machine_learning_004_main.dir/machine_learning_004/main.cpp.o -c /home/redalexdad/GitHub/LessonDL/machine_learning_004/main.cpp",
+  "file": "/home/redalexdad/GitHub/LessonDL/machine_learning_004/main.cpp",
+  "output": "CMakeFiles/machine_learning_004_main.dir/machine_learning_004/main.cpp.o"
+}
+]

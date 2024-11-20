@@ -1,0 +1,1 @@
+icpx  -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization CMakeFiles/exercise_000_main.dir/exercise_000/main.cpp.o -o exercise_000_main 

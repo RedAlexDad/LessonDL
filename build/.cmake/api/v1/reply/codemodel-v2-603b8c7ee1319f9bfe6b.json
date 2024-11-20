@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LessonDL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "check_device_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_device_main-Debug-e2ccc7b38c91d84811e3.json",
+					"name" : "check_device_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise_000_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise_000_main-Debug-849a9726a57b325ddf78.json",
+					"name" : "exercise_000_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise_001_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise_001_main-Debug-185fdb86243c72d96431.json",
+					"name" : "exercise_001_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "machine_learning_001_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-machine_learning_001_main-Debug-dd5963a27e3ddfbe5b96.json",
+					"name" : "machine_learning_001_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "machine_learning_002_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-machine_learning_002_main-Debug-58d404e2e23eac2fe099.json",
+					"name" : "machine_learning_002_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "machine_learning_003_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-machine_learning_003_main-Debug-c3fab5793f68ae8de402.json",
+					"name" : "machine_learning_003_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "machine_learning_004_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-machine_learning_004_main-Debug-b95a3cfe1043d0d3ea0e.json",
+					"name" : "machine_learning_004_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple-sycl-app_simple-sycl-app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple-sycl-app_simple-sycl-app-Debug-969c0047b1c067a5509e.json",
+					"name" : "simple-sycl-app_simple-sycl-app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/redalexdad/GitHub/LessonDL/build",
+		"source" : "/home/redalexdad/GitHub/LessonDL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

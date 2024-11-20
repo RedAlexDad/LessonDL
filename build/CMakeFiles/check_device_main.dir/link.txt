@@ -1,0 +1,1 @@
+icpx  -fsycl -Wall -Wextra -O2 -g -Rno-debug-disables-optimization CMakeFiles/check_device_main.dir/check_device/main.cpp.o -o check_device_main 

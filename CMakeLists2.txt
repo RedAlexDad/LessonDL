@@ -1,0 +1,75 @@
+cmake_minimum_required(VERSION 3.26)
+project(LessonDL LANGUAGES CXX)
+
+# C++ стандарт
+set(CPP_VERSION 20)
+set(CMAKE_CXX_STANDARD ${CPP_VERSION})
+set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
+# set(CMAKE_CXX_EXTENSIONS OFF)
+
+# Установка компиляторов
+set(CMAKE_C_COMPILER icx)
+set(CMAKE_CXX_COMPILER icpx)
+# Включение подробного вывода
+set(CMAKE_VERBOSE_MAKEFILE ON)
+
+# Добавим флаги для указания конкретного устройства
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsycl")
+# string(APPEND CMAKE_CXX_FLAGS " -fsycl-targets=nvptx64-nvidia-cuda")
+string(APPEND CMAKE_CXX_FLAGS " -Wall -Wextra -O2")
+
+# Укажите путь к IntelSYCL через CMAKE_PREFIX_PATH
+# set(ONEAPI_ROOT "/opt/intel/oneapi")
+# if (NOT DEFINED CMAKE_PREFIX_PATH)
+#     set(CMAKE_PREFIX_PATH "${ONEAPI_ROOT}/compiler/latest/linux/lib/cmake/sycl")
+# endif()
+
+# Найдите пакет IntelSYCL
+find_package(IntelSYCL REQUIRED)
+
+# add_executable(main check_device/main.cpp)
+
+# Укажите путь к Intel OneAPI, если он не находится в системных путях
+# set(ONEAPI_ROOT "/opt/intel/oneapi")
+
+# # Проверьте существование Intel OneAPI и настройте SYCL
+# if(EXISTS "${ONEAPI_ROOT}/compiler/latest/env/vars.sh")
+#     message(STATUS "Found Intel OneAPI at ${ONEAPI_ROOT}")
+
+#     # Загрузите переменные среды
+#     execute_process(COMMAND source "${ONEAPI_ROOT}/setvars.sh"
+#                     COMMAND ${CMAKE_COMMAND} -E environment
+#                     OUTPUT_VARIABLE ENVIRONMENT)
+
+#     # Установите переменную SYCL_DIR для поиска CMake пакетов
+#     set(SYCL_DIR "${ONEAPI_ROOT}/compiler/latest/linux/lib/cmake/sycl")
+#     list(APPEND CMAKE_PREFIX_PATH "${SYCL_DIR}")
+
+#     # Найдите пакет SYCL
+#     find_package(SYCL REQUIRED)
+
+# else()
+#     message(FATAL_ERROR "Intel OneAPI SYCL не найден. Проверьте правильность установки и пути.")
+# endif()
+
+# # Функция для добавления исполняемого файла из папки
+# function(add_executable_from_folder folder_name)
+#     file(GLOB_RECURSE src_files "${CMAKE_CURRENT_SOURCE_DIR}/${folder_name}/*.cpp")
+#     foreach(src_file ${src_files})
+#         get_filename_component(executable_name ${src_file} NAME_WE)
+#         string(REPLACE "/" "_" target_name ${folder_name})
+#         add_executable(${target_name}_${executable_name} ${src_file})
+#         target_include_directories(${target_name}_${executable_name} PRIVATE ${SYCL_INCLUDE_DIRS})
+#         target_link_libraries(${target_name}_${executable_name} PRIVATE SYCL)
+#         install(TARGETS ${target_name}_${executable_name} RUNTIME DESTINATION share/hipSYCL/examples/)
+#     endforeach()
+# endfunction()
+
+# # Добавление исполняемых файлов из каждой папки
+# add_executable_from_folder(check_device)
+# add_executable_from_folder(exercise_000)
+# add_executable_from_folder(exercise_001)
+# add_executable_from_folder(simple-sycl-app)
+# add_executable_from_folder(machine_learning_001)
+# add_executable_from_folder(machine_learning_002)
+# add_executable_from_folder(machine_learning_003)
